@@ -1,0 +1,226 @@
+
+
+
+nav{
+	list-style-type: none;
+}
+.banner{
+	margin-top: -22px;
+	margin-bottom: auto;
+}
+
+
+.logo{
+	margin-bottom: 25px;
+	vertical-align: middle;
+}
+.test{
+	margin-bottom: 50px;
+	vertical-align: middle;
+}
+
+.test li {
+	margin-top: 40px;
+	color: #3D58A6;
+	font-size: 18px;
+	font-family: "Mtavruli";
+
+
+}
+.test .active-page{
+	color: #EE4036;
+}
+footer img{
+	height: 30px;
+	width: auto;
+	margin-top: 20px;
+
+}
+.fb{
+	margin-right: 30px;
+	border-right: 1px;
+}
+.yt{
+	margin-left: 30px;
+	border-left: 1px;
+}
+.date .date1{
+	background-color: #3D58A6;
+	padding: 10px;
+	color: white;
+	display: inline-block;
+}
+.date .satauri{
+	font-size: 22px;
+	color: #3D58A6;
+	margin-top: -20px;
+
+}
+
+
+.first-section h3{
+	margin: 15px 0px;
+	font-family: "Mtavruli";
+}
+.first-section p{
+	font-size: 16px;
+	margin: 27px 0px;
+	font-family: "Arial";
+}
+.date2 .satauri1{
+	font-size: 22px;
+	color: #3D58A6;
+	margin-top: -10px;
+}
+.date2 .date3{
+	background-color: #3D58A6;
+	padding: 10px;
+	color: white;
+	display: inline-block;
+}
+.second-section h3{
+	margin: 15px 0px;
+	font-family: "Mtavruli";
+}
+.second-section p{
+	font-size: 16px;
+	margin: 15px 0px;
+	font-family: "Arial";
+	
+	
+}
+.second-section  .text1{
+
+	display: inline-block;
+	margin-left: 20px;
+	vertical-align: middle;
+	width: 930px;
+	margin-bottom: 70px;
+	font-family: "Arial";
+
+}
+.first-section  .text{
+
+	display: inline-block;
+	margin-left: 20px;
+	vertical-align: middle;
+	display: inline-block;
+	width: 930px;
+	margin-bottom: 70px;
+	font-family: "Arial";
+}
+.first-section .img{
+	display: inline-block;
+}
+.third-section .text2{
+
+	display: inline-block;
+	margin-left: 20px;
+	vertical-align: middle;
+	width: 930px;
+	margin-bottom: 70px;
+	font-family: "Arial";
+	
+}
+.date4 .date5{
+	background-color: #3D58A6;
+	padding: 10px;
+	color: white;
+	display: inline-block;
+}
+.date4 .satauri2{
+font-size: 22px;
+	color: #3D58A6;
+	margin-top: -10px;
+}
+.third-section h3{
+	margin: 15px 0px;
+	font-family: "Mtavruli";
+}
+.third-section p{
+	font-size: 16px;
+	margin: 15px 0px;
+	font-family: "Arial";
+
+}
+
+
+
+h3{
+	color: #3D58A6;
+}
+.info{
+	color: #808080;
+}
+.info1{
+	color: #808080;
+}
+.info2{
+	color: #808080;
+}
+.contact img{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 20px;
+}
+.contact {
+	text-align: left;
+	background-color: #E6E6E6;
+}
+.contact article {
+	display: inline-block;
+	vertical-align: top;
+}
+
+
+
+
+.test{
+	display: inline-block;
+	margin-left: 30px;
+
+}
+.test li{
+	display: inline-block;
+	margin-right: 20px;
+
+}
+.mtavari1{
+	padding: 50px;
+	box-sizing: border-box;
+}
+.mainc-article div{
+	background-color: #F2F2F2;
+	width: 570px;
+	display: inline-block;
+	padding: 0px 16px;
+}
+.mainc-article div img{
+	width: 100px;
+	height: auto;
+	vertical-align: middle;
+}
+.mainc-article div h4{
+	margin-bottom: 20px;
+	font-family: "regular",fantasy;
+}
+.article-header{
+	margin-top: 120px;
+	margin-bottom: 40px;
+}
+.div-1{
+	margin-right: 45px;
+
+}
+.mainc-article div p{
+	display: inline-block;
+	font-size: 20px;
+	width: 355px;
+	vertical-align: middle;
+	margin-left: 60px;
+	font-family: "regular";
+}
+
+/* display:block
+           inline-block
+		   inline */
